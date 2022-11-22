@@ -542,7 +542,7 @@
                       </li>
                     </ul>
                   </div>
-                  <div class="container">
+                  <div class="container-slider">
                     <div class="slider slider--tokyo">
                       <div class="slider__before"></div>
                       <div class="slider__separator"></div>
