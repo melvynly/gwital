@@ -385,7 +385,7 @@
                 <a href="#" class="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.2s">
                   <span class="rotate-box-icon"><i class="fa fa-pie-chart"></i></span>
                   <div class="rotate-box-info">
-                    <h4>Ui Design</h4>
+                    <h4>desgn pascal</h4>
                     <p>
                       Lorem ipsum dolor sit amet set, consectetur utes anet
                       adipisicing elit, sed do eiusmod tempor incidist.
@@ -593,7 +593,7 @@
                         <div class="portfolio_single_content">
                           <img src="img//portfolio/p5.jpg" alt="title" />
                           <div>
-                            <a href="#">Joy of Independence</a>
+                            <a href="#">Joy of Independence //TODO inserer image IMG_5661</a>
                             <span>Subtitle</span>
                           </div>
                         </div>
