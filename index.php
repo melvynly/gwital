@@ -601,7 +601,7 @@
                       <div class="col-xs-12 col-sm-4 GraphicDesign">
                         <div class="portfolio_single_content">
                           <img src="img/portfolio/p6.jpg" alt="title" />
-                          <div>
+                          <div>//TODO changer image IMG_5635
                             <a href="#">Night Crawlers</a>
                             <span>Subtitle</span>
                           </div>
