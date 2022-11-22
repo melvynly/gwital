@@ -591,9 +591,9 @@
                       </div>
                       <div class="col-xs-12 col-sm-4 appsDevelopment websites">
                         <div class="portfolio_single_content">
-                          <img src="img//portfolio/p5.jpg" alt="title" />
+                          <img src="img/IMG_5661.jpeg" alt="title" />
                           <div>
-                            <a href="#">Joy of Independence //TODO inserer image IMG_5661</a>
+                            <a href="#">Joy of Independence</a>
                             <span>Subtitle</span>
                           </div>
                         </div>
