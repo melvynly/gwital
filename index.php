@@ -358,7 +358,7 @@
             <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
               <h2>Services</h2>
               <div class="devider"></div>
-              <p class="subtitle">what we really know how</p>
+              <p class="subtitle">Ce que je sais faire</p>
             </div>
           </div>
         </div>
