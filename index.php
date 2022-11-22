@@ -1013,7 +1013,7 @@
           <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
             <h2>SUIVEZ&#45;NOUS</h2>
             <div class="devider"></div>
-            <p class="subtitle">Follow us on social networks</p>
+            <p class="subtitle">sur les reseaux sociaux</p>
           </div>
         </div>
       </div>
