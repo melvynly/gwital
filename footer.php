@@ -4,9 +4,9 @@
         <div class="container">
             <div class="row wow bounceInLeft" data-wow-delay="0.4s">
                 <div class="col-sm-6 col-md-4">
-                    <h4>Useful Links</h4>
+                    <h4>Liens utiles</h4>
                     <ul class="imp-links">
-                        <li><a href="">About</a></li>
+                        <li><a href="">A propos</a></li>
                         <li><a href="">Services</a></li>
                         <li><a href="">Press</a></li>
                         <li><a href="">Copyright</a></li>

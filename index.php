@@ -91,16 +91,6 @@
               <li>
                 <a class="page-scroll" href="#services-section">Services</a>
               </li>
-              <!-- <li>
-                  <a class="page-scroll" href="#portfolio-section">Works</a>
-                </li>
-                <li><a class="page-scroll" href="#team-section">Team</a></li>
-                <li>
-                  <a class="page-scroll" href="#prices-section">Prices</a>
-                </li>
-                <li>
-                  <a class="page-scroll" href="#contact-section">Contact</a>
-                </li> -->
             </ul>
           </div>
           <!-- /.navbar-collapse -->
@@ -143,7 +133,7 @@
             <div class="item">
               <h1>Design et qualit&eacute;</h1>
               <div class="extra-space-l"></div>
-              <a class="btn btn-blank" href="https://creativemarket.com/Themetorium" target="_blank" role="button">FAITES VOTRE DEVIS</a>
+              <a class="btn btn-blank" href="" target="#contact-section" role="button">FAITES VOTRE DEVIS</a>
             </div>
           </div>
         </div>
@@ -582,7 +572,7 @@
                       </div>
                       <div class="col-xs-12 col-sm-4 webDesign websites">
                         <div class="portfolio_single_content">
-                          <img src="IMG_5428.jpeg alt="title" />
+                          <img src="IMG_5428.jpeg" alt="title" />
                           <div>
                             <a href="#">Night Abstract</a>
                             <span>Subtitle</span>
@@ -1011,9 +1001,9 @@
       <div class="page-header-wrapper">
         <div class="container">
           <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-            <h2>SUIVEZ&#45;NOUS</h2>
+            <h2>SUIVEZ&#45;NOUS sur les reseaux sociaux</h2>
             <div class="devider"></div>
-            <p class="subtitle">sur les reseaux sociaux</p>
+            <!-- <p class="subtitle">sur les reseaux sociaux</p> -->
           </div>
         </div>
       </div>
